@@ -13,7 +13,7 @@ Toon War Battle is a vibrant mobile game set in a colorful, dreamlike world. Pla
 
 **Gamepley Video:** Click the thumbnail
 
-[![Shorts Video Thumbnail](https://img.youtube.com/vi/hAODfISwa3A/0.jpg)](https://youtube.com/shorts/hAODfISwa3A)
+[![Watch on YouTube](https://img.youtube.com/vi/FaFj1Q8E8Ss/0.jpg)](https://youtu.be/FaFj1Q8E8Ss)
 
 
 ---
