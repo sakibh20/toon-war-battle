@@ -11,8 +11,9 @@
 
 Toon War Battle is a vibrant mobile game set in a colorful, dreamlike world. Players can unlock new lands, level up their town hall, manage builders, exchange currencies, and expand their territories. Although still an unfinished project, the game highlights key systems like progression, inventory, and strategic pathfinding.
 
-Watch the gameplay:  
-[![Toon War Idle - Development Progress](https://img.youtube.com/vi/Zi5whzlNO-M/0.jpg)](https://youtu.be/Zi5whzlNO-M)
+**Gamepley Video:** Click the thumbnail
+
+[![Toon War Battle](https://www.youtube.com/shorts/hAODfISwa3A/0.jpg)](https://www.youtube.com/shorts/hAODfISwa3A)
 
 ---
 
