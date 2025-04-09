@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02a43fac09e170744b3f13379d0b7320, type: 3}
+  m_Name: Task Data Manager SO
+  m_EditorClassIdentifier: 
+  allTasks:
+  - {fileID: 11400000, guid: ffd5a1fb9474e824f97b60ffd00853b1, type: 2}
+  - {fileID: 11400000, guid: 9e30b88eb3918704d89cf47b75a05b31, type: 2}
+  - {fileID: 11400000, guid: 1cf187a2da9721d48a5fd4d7ff24dfcb, type: 2}
+  - {fileID: 11400000, guid: a290931d27feec549ac9529fe0301fcd, type: 2}
+  - {fileID: 11400000, guid: 303b02e826101be49beeff1ec0da462a, type: 2}
+  nextTaskIndex: 2
+  nextTaskInvokeTime: 2

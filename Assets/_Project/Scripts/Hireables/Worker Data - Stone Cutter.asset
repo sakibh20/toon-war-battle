@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 044b75091f1ebee409cb9e44063d5034, type: 3}
+  m_Name: Worker Data - Stone Cutter
+  m_EditorClassIdentifier: 
+  hiringResourceSo: {fileID: 11400000, guid: 03846ae72777d0b46a4a86b3994ed265, type: 2}
+  storingResourceSo: {fileID: 11400000, guid: 03846ae72777d0b46a4a86b3994ed265, type: 2}
+  storageUnlockableDataSo: {fileID: 11400000, guid: bf247fdd5ae721b4b844574f59d21f02, type: 2}
+  workerAllLevelsSo: {fileID: 11400000, guid: 77931225c1d06b34fb53d6b72b4e2b10, type: 2}

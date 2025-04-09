@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33871a3f921a96d4b8b87f487b6dc52e, type: 3}
+  m_Name: CuttingTool Axe
+  m_EditorClassIdentifier: 
+  toolPrefab: {fileID: -3854052438733184596, guid: 91bc3f5a3d859de45985d7150a923cb5, type: 3}

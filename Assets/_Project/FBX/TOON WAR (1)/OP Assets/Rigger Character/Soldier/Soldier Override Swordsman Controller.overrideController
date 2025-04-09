@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Soldier Override Swordsman Controller
+  m_Controller: {fileID: 9100000, guid: cebef06738d456e4ebc3ff6b128b213b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 275d5f08fc97f6a409915213d91f0da3, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 275d5f08fc97f6a409915213d91f0da3, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: d059088c26e650640933dd6121277394, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: d059088c26e650640933dd6121277394, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 5176fafbc959ec74ab4cdc430626d702, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 5176fafbc959ec74ab4cdc430626d702, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: afa8e1a70ddc4754e96ba01718a68c0a, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: afa8e1a70ddc4754e96ba01718a68c0a, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Character Controller Villager Female
+  m_Controller: {fileID: 9100000, guid: 2c2dd62d7c89e85429a5f479ea5a63be, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 286869d9af79f6a40afcd2820bc0238f, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: a2bc7c16e97a3a24497f18f050ae58c8, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: a6c3a2426ac0f5c47a0cb8cf75b7f666, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 5c6daafaadfb16a458eb235a708474a6, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 1c033ea83d9962e4e98a00539e183867, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 0f459199ed3618143877436e0f4e8798, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 43abb26dfa91d3a4285fa04a42f42c72, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: a2bc7c16e97a3a24497f18f050ae58c8, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 0903591652aaeb246ab55c6f8b5309ef, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: a2bc7c16e97a3a24497f18f050ae58c8, type: 3}

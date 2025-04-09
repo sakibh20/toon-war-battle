@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4ad6f7988760bb489ffd6c7a5d12bba, type: 3}
+  m_Name: Gold Mine Upgrade Data
+  m_EditorClassIdentifier: 
+  currentLevel: 0
+  title: Gold mine upgrade
+  sprite: {fileID: 21300000, guid: 129c74ac6f0a22a4190d0c2c5410fcab, type: 3}
+  worldInfoPrefab: {fileID: 6616752347105164610, guid: bc24d2704f160a0469d5e1d1e8d3f6a5, type: 3}
+  allUpgrades:
+  - {fileID: 11400000, guid: 5c0b21069b0ec5b4b86f5dbef8f5a352, type: 2}
+  - {fileID: 11400000, guid: 1d31363a82717b74f8463f4dd937b674, type: 2}
